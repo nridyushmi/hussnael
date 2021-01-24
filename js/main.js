@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Hussna El-Mutmainnah, ACCA. CA.", "ACCA's Affiliate.", "Senior Analyst."],
-      typeSpeed: 75,
+      strings: ["Hussna El Mutmainnah Hamdan ,ACCA (UK). C.A.(M)", "ACCA Member.", "Senior Associate Analyst."],
+      typeSpeed: 80,
       loop: true,
     });
   });
